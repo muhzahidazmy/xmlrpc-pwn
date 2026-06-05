@@ -35,7 +35,7 @@ Designed for **penetration testers** and **security researchers**, it supports b
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/ForwardEcho/xmlrpc-attack.git
+git clone https://github.com/muhzahidazmy/xmlrpc-attack.git
 cd xmlrpc-attack
 chmod +x xmlrpcattack.py   # Linux/macOS only
 ```
@@ -112,16 +112,16 @@ This tool is strictly for use in:
 - **CTF (Capture The Flag)** competitions
 - **Research on systems you own or have written permission to test**
 
-**Do not use this tool against systems without explicit permission.** The author (**ForwardEcho**) is not responsible for any damage caused by misuse of this software.
+**Do not use this tool against systems without explicit permission.** The author (**muhzahidazmy**) is not responsible for any damage caused by misuse of this software.
 
 ---
 
 ## 👤 Author
 
-**ForwardEcho**  
+**muhzahidazmy**  
 Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 
-- GitHub: [@ForwardEcho](https://github.com/ForwardEcho)
+- GitHub: [@muhzahidazmy](https://github.com/muhzahidazmy)
 
 ---
 
