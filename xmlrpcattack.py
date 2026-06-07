@@ -18,7 +18,7 @@ def banner():
     ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝    ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   """
     
     info = """
-    Author: ForwardEcho
+    Author: muhzahidazmy
     Version: 1.0
     Description: Simple XML-RPC client for testing purposes. """
     print()
